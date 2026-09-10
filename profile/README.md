@@ -1,4 +1,3 @@
-# .github
 <div align="center">
   <a href="https://www.uow.edu.au/niasra/our-research/mixed-models-and-experimental-design-lab/">
     <img width="65%" src="images/Yarrawonga.png" alt="Field experiment">
