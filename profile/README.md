@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://www.uow.edu.au/niasra/our-research/mixed-models-and-experimental-design-lab/">Official Website</a> •
-  <a href="https://github.com/mmaedlab">GitHub Organization</a>
+  <a href="https://github.com/mmaedhub">GitHub Organization</a>
 </p>
 
 ---
