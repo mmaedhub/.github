@@ -30,7 +30,7 @@ MMaED maintains 4 statistical software solutions in the form of `R` packages:
 - [pedicure](https://github.com/mmaedhub/pedicure) - tools for plant
   and animal pedigrees
 - [odw](https://github.com/mmaedhub/odw) - optimal design of categorical experiments 
-- [dwreml](https://github.com/mmaedhub/dwreml) - REML estimation of variance components
+- [dwreml](https://github.com/mmaedhub/dwreml-bin) - REML estimation of variance components
 - [dwrPlus](https://github.com/mmaedhub/dwrPlus) - methods for dwreml objects
 
 ---
