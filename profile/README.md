@@ -26,15 +26,18 @@ software tools enable breeders to meet the challenges of improving productivity
 at the farm-gate in the face of rapidly changing environmental and market scope.
 
 ### Projects
+
 MMaED maintains 4 statistical software solutions in the form of `R` packages: 
 - [pedicure](https://github.com/mmaedhub/pedicure) - tools for plant
   and animal pedigrees
-- [odw](https://github.com/mmaedhub/odw) - optimal design of categorical experiments 
+- [odw](https://github.com/mmaedhub/odw-bin) - optimal design of categorical experiments 
 - [dwreml](https://github.com/mmaedhub/dwreml-bin) - REML estimation of variance components
 - [dwrPlus](https://github.com/mmaedhub/dwrPlus) - methods for dwreml objects
 
 ---
 ## Resources
+ ![Static Badge](https://img.shields.io/badge/Under-Construction-blue)
+
 - Publications
 - Presentations
 - User assist
